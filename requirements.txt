@@ -1,5 +1,6 @@
 pydantic
 langchain
-langgraph 
+langgraph
 langchain-core
 langchain-community
+ipython
